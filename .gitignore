@@ -1,3 +1,7 @@
+RemoteSystemsTempFiles/
+.metadata/
+.recommenders/
+.settings/
 # Compiled class file
 *.class
 
